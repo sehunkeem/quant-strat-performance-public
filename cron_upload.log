@@ -1,0 +1,467 @@
+/bin/bash: /Users/skim/Desktop/quant-strat-live-performance/upload_eod_results.sh: Permission denied
+Transfer starting: 8 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_60d.png
+
+sent 386729 bytes  received 130 bytes  42511978 bytes/sec
+total size is 392231  speedup is 1.01
+Transfer starting: 8 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_60d.png
+
+sent 222941 bytes  received 130 bytes  43739411 bytes/sec
+total size is 228459  speedup is 1.02
+[main 512f4c6] Daily metrics upload 2025-08-02
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   9d695ed..512f4c6  main -> main
+Transfer starting: 9 files
+.DS_Store
+evaluation_summary.csv
+plots/
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 392982 bytes  received 158 bytes  64449180 bytes/sec
+total size is 474877  speedup is 1.21
+Transfer starting: 9 files
+.DS_Store
+evaluation_summary.csv
+plots/
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 229194 bytes  received 158 bytes  28315061 bytes/sec
+total size is 264488  speedup is 1.15
+[main a3a9fe2] Daily metrics upload 2025-08-02
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 metrics/all/plots/rolling_sharpe_90d.png
+ create mode 100644 metrics/v4/plots/rolling_sharpe_90d.png
+To github.com:sehunkeem/quant-strat-live-performance
+   512f4c6..a3a9fe2  main -> main
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_60d.png
+plots/rolling_sharpe_90d.png
+
+sent 469488 bytes  received 158 bytes  57980987 bytes/sec
+total size is 474877  speedup is 1.01
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 222994 bytes  received 130 bytes  27546172 bytes/sec
+total size is 264488  speedup is 1.19
+[main 7d2fd86] Daily metrics upload 2025-08-02
+ 2 files changed, 26 insertions(+), 21 deletions(-)
+ create mode 100644 metrics/all/plots/rolling_sharpe_60d.png
+To github.com:sehunkeem/quant-strat-live-performance
+   1805e98..7d2fd86  main -> main
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 387684 bytes  received 130 bytes  47878271 bytes/sec
+total size is 399294  speedup is 1.03
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/
+plots/.DS_Store
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 213397 bytes  received 158 bytes  19239189 bytes/sec
+total size is 218823  speedup is 1.02
+[main 4afeee3] Daily metrics upload 2025-08-03
+ 10 files changed, 27 insertions(+), 27 deletions(-)
+ create mode 100644 metrics/v4/plots/.DS_Store
+To github.com:sehunkeem/quant-strat-live-performance
+   a2d32b4..4afeee3  main -> main
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 388126 bytes  received 130 bytes  47932839 bytes/sec
+total size is 399736  speedup is 1.03
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 242304 bytes  received 130 bytes  34145633 bytes/sec
+total size is 253930  speedup is 1.05
+[main 7bc837d] Daily metrics upload 2025-08-04
+ 9 files changed, 33 insertions(+), 33 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   4afeee3..7bc837d  main -> main
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 370943 bytes  received 130 bytes  52263802 bytes/sec
+total size is 382557  speedup is 1.03
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 264825 bytes  received 130 bytes  32710493 bytes/sec
+total size is 276447  speedup is 1.04
+[main 501b727] Daily metrics upload 2025-08-05
+ 9 files changed, 34 insertions(+), 34 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   7bc837d..501b727  main -> main
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 376206 bytes  received 130 bytes  46461234 bytes/sec
+total size is 387820  speedup is 1.03
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 288484 bytes  received 130 bytes  35631358 bytes/sec
+total size is 300106  speedup is 1.04
+[main 8653002] Daily metrics upload 2025-08-06
+ 9 files changed, 32 insertions(+), 32 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   501b727..8653002  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 201726 bytes  received 130 bytes  22181978 bytes/sec
+total size is 213356  speedup is 1.06
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  92727 bytes/sec
+total size is 352  speedup is 3.45
+[main 5df6d4f] Daily metrics sync 2025-08-06
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   ee41b25..5df6d4f  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 201726 bytes  received 130 bytes  22181978 bytes/sec
+total size is 213356  speedup is 1.06
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  14366 bytes/sec
+total size is 352  speedup is 3.45
+No private-repo changes; skipping commit.
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 274493 bytes  received 130 bytes  33904074 bytes/sec
+total size is 286115  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  92727 bytes/sec
+total size is 352  speedup is 3.45
+[main eab3943] Daily metrics sync 2025-08-07
+ 5 files changed, 20 insertions(+), 21 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   5df6d4f..eab3943  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 295950 bytes  received 130 bytes  17314619 bytes/sec
+total size is 307568  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  20000 bytes/sec
+total size is 352  speedup is 3.45
+[main 438c218] Daily metrics sync 2025-08-08
+ 5 files changed, 15 insertions(+), 15 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   e34e29d..438c218  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 288407 bytes  received 130 bytes  35621851 bytes/sec
+total size is 300029  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  92727 bytes/sec
+total size is 352  speedup is 3.45
+[main 6a5e09b] Daily metrics sync 2025-08-09
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   438c218..6a5e09b  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  102857 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 265533 bytes  received 130 bytes  43551311 bytes/sec
+total size is 277155  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  92727 bytes/sec
+total size is 352  speedup is 3.45
+[main 1cdd633] Daily metrics sync 2025-08-10
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   6a5e09b..1cdd633  main -> main
+Transfer starting: 4 files
+
+sent 196 bytes  received 20 bytes  69677 bytes/sec
+total size is 825093  speedup is 3819.86
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 263559 bytes  received 130 bytes  32554197 bytes/sec
+total size is 275181  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  24878 bytes/sec
+total size is 352  speedup is 3.45
+[main 4dcd590] Daily metrics sync 2025-08-11
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   1cdd633..4dcd590  main -> main
+Transfer starting: 5 files
+./
+README.md
+v5_backtest_results.ipynb
+
+sent 430141 bytes  received 70 bytes  70526393 bytes/sec
+total size is 1254597  speedup is 2.92
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 261257 bytes  received 130 bytes  42850327 bytes/sec
+total size is 272883  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  24878 bytes/sec
+total size is 352  speedup is 3.45
+[main 9531fb5] Daily metrics sync 2025-08-12
+ 9 files changed, 282 insertions(+), 26 deletions(-)
+ create mode 100644 metrics/backtest/v5_backtest_results.ipynb
+To github.com:sehunkeem/quant-strat-live-performance
+   4dcd590..9531fb5  main -> main
+Transfer starting: 5 files
+./
+.DS_Store
+v4_backtest_results.ipynb
+
+sent 825292 bytes  received 70 bytes  90699120 bytes/sec
+total size is 1254597  speedup is 1.52
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 261257 bytes  received 130 bytes  36815070 bytes/sec
+total size is 272883  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  2077 bytes/sec
+total size is 352  speedup is 3.45
+[main e38ea5d] Daily metrics sync 2025-08-12
+ 1 file changed, 16 insertions(+), 12 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   9531fb5..e38ea5d  main -> main
+Transfer starting: 5 files
+
+sent 246 bytes  received 20 bytes  241818 bytes/sec
+total size is 1254597  speedup is 4716.51
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 261257 bytes  received 130 bytes  42850327 bytes/sec
+total size is 272883  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  48571 bytes/sec
+total size is 352  speedup is 3.45
+[main f3d2b5e] Daily metrics sync 2025-08-12
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   e38ea5d..f3d2b5e  main -> main
+Transfer starting: 5 files
+
+sent 246 bytes  received 20 bytes  126666 bytes/sec
+total size is 1254597  speedup is 4716.51
+Transfer starting: 9 files
+.DS_Store
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 286400 bytes  received 152 bytes  28371485 bytes/sec
+total size is 291828  speedup is 1.02
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  20000 bytes/sec
+total size is 352  speedup is 3.45
+[main 9df1bea] Daily metrics sync 2025-08-13
+ 5 files changed, 17 insertions(+), 17 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   f3d2b5e..9df1bea  main -> main
+Transfer starting: 5 files
+
+sent 246 bytes  received 20 bytes  126666 bytes/sec
+total size is 1254597  speedup is 4716.51
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 281819 bytes  received 130 bytes  34808518 bytes/sec
+total size is 293441  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  48571 bytes/sec
+total size is 352  speedup is 3.45
+[main 33708a4] Daily metrics sync 2025-08-14
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   9df1bea..33708a4  main -> main
+Transfer starting: 5 files
+
+sent 246 bytes  received 20 bytes  126666 bytes/sec
+total size is 1254597  speedup is 4716.51
+Transfer starting: 9 files
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 301086 bytes  received 130 bytes  42424788 bytes/sec
+total size is 312704  speedup is 1.04
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  48571 bytes/sec
+total size is 352  speedup is 3.45
+[main eb2c7fd] Daily metrics sync 2025-08-15
+ 5 files changed, 18 insertions(+), 18 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   33708a4..eb2c7fd  main -> main
+Transfer starting: 5 files
+
+sent 246 bytes  received 20 bytes  85806 bytes/sec
+total size is 1254597  speedup is 4716.51
+Transfer starting: 9 files
+.DS_Store
+evaluation_summary.csv
+plots/cumret.png
+plots/drawdown.png
+plots/monthly_heatmap.png
+plots/rolling_sharpe_90d.png
+
+sent 291285 bytes  received 152 bytes  32026043 bytes/sec
+total size is 296713  speedup is 1.02
+Transfer starting: 1 files
+
+sent 82 bytes  received 20 bytes  48571 bytes/sec
+total size is 352  speedup is 3.45
+[main a344a11] Daily metrics sync 2025-08-16
+ 5 files changed, 16 insertions(+), 16 deletions(-)
+To github.com:sehunkeem/quant-strat-live-performance
+   eb2c7fd..a344a11  main -> main
